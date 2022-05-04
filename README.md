@@ -1,6 +1,6 @@
 ### Hello! Sarvesh here 👋👋
 - 🌱 I’m currently learning android development
-- 👨‍💻 I'm interested in making applications that will create a impact
+- 👨‍💻 I'm interested in making applications that will create an impact
 - 👨‍👦‍👦 I’m looking to collaborate on android projects
 - 📫 How to reach me: ranesarvesh97@gmail.com
 
